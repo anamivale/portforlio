@@ -69,7 +69,7 @@ const AboutSection = () => {
           <p className="text-base lg:text-lg">
             I am a dedicated full-stack developer with over 2 years of hands-on experience
             in software development. I specialize in building scalable web applications
-            using modern technologies including Go, Python, JavaScript, and Next.js.
+            using modern technologies including Go, Python and JavaScript.
             My expertise spans both frontend and backend development, with strong proficiency
             in database design using PostgreSQL, MongoDB, and SQLite. I have a solid
             foundation in HTML/CSS for responsive layouts and enjoy working in collaborative
