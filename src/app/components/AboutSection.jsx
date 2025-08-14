@@ -40,11 +40,11 @@ const TAB_DATA = [
     id: "achievements",
     content: (
       <ul className="list-disc pl-2">
-        <li>🏆 Hackathon Winner - 1st Place</li>
-        <li>📚 10+ Completed Projects</li>
-        <li>💻 1+ Years Professional Development Experience</li>
-        <li>🚀 Full-Stack Development Expertise</li>
-        <li>🎯 Strong Problem-Solving Skills</li>
+        <li> Hackathon Winner - 1st Place</li>
+        <li> 10+ Completed Projects</li>
+        <li> 3+ Years Professional Development Experience</li>
+        <li> Full-Stack Development Expertise</li>
+        <li> Strong Problem-Solving Skills</li>
       </ul>
     ),
   },
