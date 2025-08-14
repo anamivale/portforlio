@@ -37,7 +37,7 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-            Passionate full-stack developer with 1+ years of experience building robust web applications.
+            Passionate full-stack developer with 3+ years of experience building robust web applications.
             Proficient in Go, Python, JavaScript, and modern frameworks like Next.js.
             Strong background in database design and backend development.
           </p>
@@ -49,7 +49,8 @@ const HeroSection = () => {
               Hire Me
             </Link>
             <Link
-              href="/"
+              href="/ValeriaMuhembele_CV.docs.pdf"
+              download="ValeriaMuhembele_CV.docs.pdf"
               className="px-1 inline-block py-1 w-full sm:w-fit rounded-full bg-gradient-to-br from-primary-500 to-secondary-500 hover:bg-slate-800 text-white mt-3"
             >
               <span className="block bg-[#121212] hover:bg-slate-800 rounded-full px-5 py-2">
