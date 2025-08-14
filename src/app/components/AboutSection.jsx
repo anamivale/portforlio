@@ -42,7 +42,7 @@ const TAB_DATA = [
       <ul className="list-disc pl-2">
         <li> Hackathon Winner - 1st Place</li>
         <li> 10+ Completed Projects</li>
-        <li> 3+ Years Professional Development Experience</li>
+        <li> 2+ Years Professional Development Experience</li>
         <li> Full-Stack Development Expertise</li>
         <li> Strong Problem-Solving Skills</li>
       </ul>
@@ -67,7 +67,7 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
-            I am a dedicated full-stack developer with over 1 year of hands-on experience
+            I am a dedicated full-stack developer with over 2 years of hands-on experience
             in software development. I specialize in building scalable web applications
             using modern technologies including Go, Python, JavaScript, and Next.js.
             My expertise spans both frontend and backend development, with strong proficiency
