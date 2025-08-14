@@ -38,7 +38,7 @@ const HeroSection = () => {
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
             Passionate full-stack developer with 2+ years of experience building robust web applications.
-            Proficient in Go, Python, JavaScript, and modern frameworks like Next.js.
+            Proficient in Go, Python, JavaScript, and modern frameworks like Next.js, django and React.
             Strong background in database design and backend development.
           </p>
           <div>
