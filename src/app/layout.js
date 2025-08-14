@@ -1,7 +1,9 @@
 import './globals.css'
-import { Inter } from 'next/font/google'
 
-const inter = Inter({ subsets: ['latin'] })
+// Temporarily using system fonts due to Google Fonts connectivity issues
+const inter = {
+  className: 'font-sans'
+}
 
 export const metadata = {
   title: 'Valeria Muhembele Portfolio',
